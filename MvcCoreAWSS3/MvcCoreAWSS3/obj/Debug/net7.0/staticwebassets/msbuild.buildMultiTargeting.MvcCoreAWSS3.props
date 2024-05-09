@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MvcCoreAWSS3.props" />
+</Project>

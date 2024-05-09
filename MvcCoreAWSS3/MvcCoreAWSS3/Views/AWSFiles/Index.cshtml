@@ -1,0 +1,37 @@
+﻿@model List<string>
+
+<h1>AWS Storage S3</h1>
+
+<p>
+    <a asp-controller="AWSFiles"
+       asp-action="UploadFile">
+        Upload File AWS
+    </a>
+</p>
+
+<ul class="list-group">
+    @foreach (string fileName in Model)
+    {
+        <li class="list-group-item">
+            @fileName
+            @{
+                string link = Configuration["AWS:BucketUrl"];
+            }
+            <img src="@link@fileName" />
+            <a asp-controller="AWSFiles"
+               asp-action="GetPrivateFile"
+               asp-route-filename="@fileName"
+               class="btn btn-warning ms-1">
+                Get private file
+            </a>
+            <img src="@Url.Action("GetPrivateFile", new { fileName = fileName })"
+                 style="width: 150px; height:150px;" />
+            <a asp-controller="AWSFiles"
+               asp-action="DeleteFile"
+               asp-route-filename="@fileName"
+               class="btn btn-danger ms-1">
+                Delete file
+            </a>
+        </li>
+    }
+</ul>
