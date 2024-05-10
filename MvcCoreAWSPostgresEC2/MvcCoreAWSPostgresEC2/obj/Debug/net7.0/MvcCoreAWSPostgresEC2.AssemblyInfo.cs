@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MvcCoreAWSPostgresEC2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7eb8aba7a00601c0613c8868938feaee48db7c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a91789e08b55cec0aa6c1b0c8fad598e4543c28")]
 [assembly: System.Reflection.AssemblyProductAttribute("MvcCoreAWSPostgresEC2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MvcCoreAWSPostgresEC2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
