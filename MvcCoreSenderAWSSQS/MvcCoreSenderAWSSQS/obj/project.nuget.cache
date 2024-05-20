@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ycNR6dHwaYkUUpYfStamAFmsAcTAvIvq7GK8kJo9CO2RXdp5LTahuVaafsNFlKeuEaMO69dO9CnVH6OugxrBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcCoreSenderAWSSQS\\MvcCoreSenderAWSSQS\\MvcCoreSenderAWSSQS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\awssdk.core\\3.7.304.3\\awssdk.core.3.7.304.3.nupkg.sha512",
+    "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.7.300\\awssdk.extensions.netcore.setup.3.7.300.nupkg.sha512",
+    "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\awssdk.sqs\\3.7.301.6\\awssdk.sqs.3.7.301.6.nupkg.sha512",
+    "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.0\\microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

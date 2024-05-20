@@ -1,0 +1,17 @@
+﻿<h1 class="text-primary">
+    Sender Messages SQS Queue
+</h1>
+
+<form method="post">
+    <label class="form-label">Asunto</label>
+    <input type="text" name="asunto" class="form-control" />
+    <label class="form-label">Email</label>
+    <input type="text" name="email" class="form-control" />
+    <label class="form-label">Contenido</label>
+    <textarea name="contenido" class="form-control"></textarea>
+    <label class="form-label">Fecha</label>
+    <input type="text" name="fecha" class="form-control" />
+    <button class="btn btn-info">Send Message</button>
+</form>
+
+<h2 class="text-danger">@ViewData["MENSAJE"]</h2>
