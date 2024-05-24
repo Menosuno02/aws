@@ -1,0 +1,9 @@
+C:\Users\Alumnos MCSD Mañana\Desktop\AWS\MyFunctionLambdaNetCore\MyFunctionLambdaNetCore\bin\Release\net8.0\publish\MyFunctionLambdaNetCore.deps.json
+C:\Users\Alumnos MCSD Mañana\Desktop\AWS\MyFunctionLambdaNetCore\MyFunctionLambdaNetCore\bin\Release\net8.0\publish\MyFunctionLambdaNetCore.runtimeconfig.json
+C:\Users\Alumnos MCSD Mañana\Desktop\AWS\MyFunctionLambdaNetCore\MyFunctionLambdaNetCore\bin\Release\net8.0\publish\MyFunctionLambdaNetCore.pdb
+C:\Users\Alumnos MCSD Mañana\Desktop\AWS\MyFunctionLambdaNetCore\MyFunctionLambdaNetCore\bin\Release\net8.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\AWS\MyFunctionLambdaNetCore\MyFunctionLambdaNetCore\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\AWS\MyFunctionLambdaNetCore\MyFunctionLambdaNetCore\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\AWS\MyFunctionLambdaNetCore\MyFunctionLambdaNetCore\bin\Release\net8.0\publish\Newtonsoft.Json.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\AWS\MyFunctionLambdaNetCore\MyFunctionLambdaNetCore\bin\Release\net8.0\publish\System.Data.SqlClient.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\AWS\MyFunctionLambdaNetCore\MyFunctionLambdaNetCore\bin\Release\net8.0\publish\MyFunctionLambdaNetCore.dll
