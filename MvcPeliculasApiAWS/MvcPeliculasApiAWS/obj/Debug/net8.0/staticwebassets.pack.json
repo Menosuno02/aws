@@ -1,0 +1,469 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MvcPeliculasApiAWS.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MvcPeliculasApiAWS.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\ABRE_LOS_OJOS.JPG",
+      "PackagePath": "staticwebassets\\images\\ABRE_LOS_OJOS.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\AL_FINAL_DE_LA_ESCALERA.JPG",
+      "PackagePath": "staticwebassets\\images\\AL_FINAL_DE_LA_ESCALERA.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\A_TODO_GAS.JPG",
+      "PackagePath": "staticwebassets\\images\\A_TODO_GAS.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\Buscando_a_Nemo.jpg",
+      "PackagePath": "staticwebassets\\images\\Buscando_a_Nemo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\Cadena_Perpetua.jpg",
+      "PackagePath": "staticwebassets\\images\\Cadena_Perpetua.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\EL_IMPERIO_CONTRAATACA.jpg",
+      "PackagePath": "staticwebassets\\images\\EL_IMPERIO_CONTRAATACA.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\El_Resplandor.jpg",
+      "PackagePath": "staticwebassets\\images\\El_Resplandor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\El_Rey_Leon.jpg",
+      "PackagePath": "staticwebassets\\images\\El_Rey_Leon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\Gangs_Of_New_York.jpg",
+      "PackagePath": "staticwebassets\\images\\Gangs_Of_New_York.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\Indiana_Jones_Y_El_Templo_Maldito.jpg",
+      "PackagePath": "staticwebassets\\images\\Indiana_Jones_Y_El_Templo_Maldito.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\LEYENDAS_DE_PASION.jpg",
+      "PackagePath": "staticwebassets\\images\\LEYENDAS_DE_PASION.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\La_Princesa_Prometida.jpg",
+      "PackagePath": "staticwebassets\\images\\La_Princesa_Prometida.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\La_Roca.jpg",
+      "PackagePath": "staticwebassets\\images\\La_Roca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\La_guerra_de_las_galaxias.jpg",
+      "PackagePath": "staticwebassets\\images\\La_guerra_de_las_galaxias.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\Las_aventuras_de_Ford_Fairlane.jpg",
+      "PackagePath": "staticwebassets\\images\\Las_aventuras_de_Ford_Fairlane.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\Los_Goonies.jpg",
+      "PackagePath": "staticwebassets\\images\\Los_Goonies.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\Los_Otros.jpg",
+      "PackagePath": "staticwebassets\\images\\Los_Otros.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\Los_Padres_De_Ella.jpg",
+      "PackagePath": "staticwebassets\\images\\Los_Padres_De_Ella.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\Matrix.jpg",
+      "PackagePath": "staticwebassets\\images\\Matrix.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\Mejor_Imposible.jpg",
+      "PackagePath": "staticwebassets\\images\\Mejor_Imposible.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\Piratas_del_Caribe.jpg",
+      "PackagePath": "staticwebassets\\images\\Piratas_del_Caribe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\Regreso_Al_Futuro.jpg",
+      "PackagePath": "staticwebassets\\images\\Regreso_Al_Futuro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\Snatch.jpg",
+      "PackagePath": "staticwebassets\\images\\Snatch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\THEITALIANJOB.jpg",
+      "PackagePath": "staticwebassets\\images\\THEITALIANJOB.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\Willow.jpg",
+      "PackagePath": "staticwebassets\\images\\Willow.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\avatar.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\bella_y_bestia.jpg",
+      "PackagePath": "staticwebassets\\images\\bella_y_bestia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\cometieron_dos_errores.jpg",
+      "PackagePath": "staticwebassets\\images\\cometieron_dos_errores.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\conan_el_barbaro.jpg",
+      "PackagePath": "staticwebassets\\images\\conan_el_barbaro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\depredador.jpg",
+      "PackagePath": "staticwebassets\\images\\depredador.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\dirtydancing.jpg",
+      "PackagePath": "staticwebassets\\images\\dirtydancing.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\dostontosmuytontos.jpg",
+      "PackagePath": "staticwebassets\\images\\dostontosmuytontos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\elefectomariposa.jpg",
+      "PackagePath": "staticwebassets\\images\\elefectomariposa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\historia_interminable.jpg",
+      "PackagePath": "staticwebassets\\images\\historia_interminable.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\juegos_de_guerra.jpg",
+      "PackagePath": "staticwebassets\\images\\juegos_de_guerra.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\karate_kid.jpg",
+      "PackagePath": "staticwebassets\\images\\karate_kid.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\la_sirenita.jpg",
+      "PackagePath": "staticwebassets\\images\\la_sirenita.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\lascronicasderiddick.jpg",
+      "PackagePath": "staticwebassets\\images\\lascronicasderiddick.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\lellamanbodhi.jpg",
+      "PackagePath": "staticwebassets\\images\\lellamanbodhi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\los_bingueros.jpg",
+      "PackagePath": "staticwebassets\\images\\los_bingueros.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\por_un_puñado_de_dolares.jpg",
+      "PackagePath": "staticwebassets\\images\\por_un_puñado_de_dolares.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\porkys.jpg",
+      "PackagePath": "staticwebassets\\images\\porkys.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\rambo.jpg",
+      "PackagePath": "staticwebassets\\images\\rambo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\sospechosos_habituales.jpg",
+      "PackagePath": "staticwebassets\\images\\sospechosos_habituales.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\spiderman2.jpg",
+      "PackagePath": "staticwebassets\\images\\spiderman2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\terminator2.jpg",
+      "PackagePath": "staticwebassets\\images\\terminator2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\top_gun.jpg",
+      "PackagePath": "staticwebassets\\images\\top_gun.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\torrente.jpg",
+      "PackagePath": "staticwebassets\\images\\torrente.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\tron.jpg",
+      "PackagePath": "staticwebassets\\images\\tron.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\volar_por_los_aires.jpg",
+      "PackagePath": "staticwebassets\\images\\volar_por_los_aires.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\images\\y_si_no_nos_enfadamos.jpg",
+      "PackagePath": "staticwebassets\\images\\y_si_no_nos_enfadamos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\MvcPeliculasApiAWS\\MvcPeliculasApiAWS\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MvcPeliculasApiAWS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MvcPeliculasApiAWS.props",
+      "PackagePath": "build\\MvcPeliculasApiAWS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MvcPeliculasApiAWS.props",
+      "PackagePath": "buildMultiTargeting\\MvcPeliculasApiAWS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MvcPeliculasApiAWS.props",
+      "PackagePath": "buildTransitive\\MvcPeliculasApiAWS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3HxPmBDRvyFWfFoffD55bMss6PKZHSg+yGMdLnV81A8=",
+  "Source": "ApiPeliculasAWS",
+  "BasePath": "_content/ApiPeliculasAWS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

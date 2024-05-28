@@ -1,0 +1,55 @@
+﻿@model List<Pelicula>
+
+<h1>Peliculas AWS API Gateway</h1>
+
+<p>
+    <a asp-controller="Peliculas"
+       asp-action="Create"
+       class="btn btn-success">
+        Create
+    </a>
+    <a asp-controller="Peliculas"
+       asp-action="PeliculasActor"
+       class="btn btn-info">Pelis por actor</a>
+</p>
+
+<table class="table-borderless table">
+    <thead>
+        <tr>
+            <th>Título</th>
+            <th>Imagen</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Pelicula peli in Model)
+        {
+            <tr>
+                <td>@peli.Titulo</td>
+                <td>
+                    <img src="~/images/@peli.Foto" width="150" height="200" />
+                </td>
+                <td>
+                    <a asp-controller="Peliculas"
+                       asp-action="Details"
+                       asp-route-id="@peli.IdPelicula"
+                       class="btn btn-sm btn-primary">
+                        Details
+                    </a>
+                    <a asp-controller="Peliculas"
+                       asp-action="Edit"
+                       asp-route-id="@peli.IdPelicula"
+                       class="btn btn-sm btn-warning">
+                        Edit
+                    </a>
+                    <a asp-controller="Peliculas"
+                       asp-action="Delete"
+                       asp-route-id="@peli.IdPelicula"
+                       class="btn btn-sm btn-danger">
+                        Delete
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MvcPeliculasApiAWS.props" />
+</Project>
