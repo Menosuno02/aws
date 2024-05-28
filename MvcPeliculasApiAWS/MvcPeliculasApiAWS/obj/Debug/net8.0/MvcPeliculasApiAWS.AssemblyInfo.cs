@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MvcPeliculasApiAWS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c76652f4c12d203319662cb4824fd24760431d10")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8fcc032342f1d392545e487a639355736f3736d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MvcPeliculasApiAWS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MvcPeliculasApiAWS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
