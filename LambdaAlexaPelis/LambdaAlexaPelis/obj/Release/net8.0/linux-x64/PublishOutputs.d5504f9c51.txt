@@ -1,0 +1,11 @@
+C:\Users\Alumnos MCSD Mañana\Desktop\AWS\LambdaAlexaPelis\LambdaAlexaPelis\bin\Release\net8.0\publish\LambdaAlexaPelis.deps.json
+C:\Users\Alumnos MCSD Mañana\Desktop\AWS\LambdaAlexaPelis\LambdaAlexaPelis\bin\Release\net8.0\publish\LambdaAlexaPelis.runtimeconfig.json
+C:\Users\Alumnos MCSD Mañana\Desktop\AWS\LambdaAlexaPelis\LambdaAlexaPelis\bin\Release\net8.0\publish\LambdaAlexaPelis.pdb
+C:\Users\Alumnos MCSD Mañana\Desktop\AWS\LambdaAlexaPelis\LambdaAlexaPelis\bin\Release\net8.0\publish\Alexa.NET.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\AWS\LambdaAlexaPelis\LambdaAlexaPelis\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\AWS\LambdaAlexaPelis\LambdaAlexaPelis\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.Json.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\AWS\LambdaAlexaPelis\LambdaAlexaPelis\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\AWS\LambdaAlexaPelis\LambdaAlexaPelis\bin\Release\net8.0\publish\System.Net.Http.Formatting.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\AWS\LambdaAlexaPelis\LambdaAlexaPelis\bin\Release\net8.0\publish\Newtonsoft.Json.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\AWS\LambdaAlexaPelis\LambdaAlexaPelis\bin\Release\net8.0\publish\Newtonsoft.Json.Bson.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\AWS\LambdaAlexaPelis\LambdaAlexaPelis\bin\Release\net8.0\publish\LambdaAlexaPelis.dll

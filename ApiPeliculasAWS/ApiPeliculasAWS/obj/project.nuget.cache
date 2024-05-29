@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9+i1I6MkMTZrQwO/Io2WlxGcNl3N0dQSak5cOIKa2mqLaeAAbAqOJYEBLT8S68YRv93HXA2hPTg0MOJmDm5Z9w==",
+  "dgSpecHash": "FvuDt656tClo76tO3o1En518akRBsX3x8nGSw3Qeb6/Jf0momQ+kOvBLf2pPS8eOjRsiBGiugg5wp/Bd2W/ZcA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\AWS\\ApiPeliculasAWS\\ApiPeliculasAWS\\ApiPeliculasAWS.csproj",
   "expectedPackageFiles": [
@@ -34,7 +34,10 @@
     "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
     "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
     "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
-    "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.1\\microsoft.netcore.app.crossgen2.win-x64.8.0.1.nupkg.sha512"
+    "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.1\\microsoft.netcore.app.runtime.linux-x64.8.0.1.nupkg.sha512",
+    "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.1\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.1.nupkg.sha512",
+    "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.1\\microsoft.netcore.app.crossgen2.win-x64.8.0.1.nupkg.sha512",
+    "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.1\\microsoft.netcore.app.host.linux-x64.8.0.1.nupkg.sha512"
   ],
   "logs": []
 }
