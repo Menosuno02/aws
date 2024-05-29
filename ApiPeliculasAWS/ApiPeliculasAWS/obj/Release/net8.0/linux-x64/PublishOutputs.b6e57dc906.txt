@@ -11,11 +11,14 @@ C:\Users\Alumnos MCSD Mañana\Desktop\AWS\ApiPeliculasAWS\ApiPeliculasAWS\bin\Re
 C:\Users\Alumnos MCSD Mañana\Desktop\AWS\ApiPeliculasAWS\ApiPeliculasAWS\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
 C:\Users\Alumnos MCSD Mañana\Desktop\AWS\ApiPeliculasAWS\ApiPeliculasAWS\bin\Release\net8.0\publish\Amazon.Lambda.Logging.AspNetCore.dll
 C:\Users\Alumnos MCSD Mañana\Desktop\AWS\ApiPeliculasAWS\ApiPeliculasAWS\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\AWS\ApiPeliculasAWS\ApiPeliculasAWS\bin\Release\net8.0\publish\AWSSDK.Core.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\AWS\ApiPeliculasAWS\ApiPeliculasAWS\bin\Release\net8.0\publish\AWSSDK.SecretsManager.dll
 C:\Users\Alumnos MCSD Mañana\Desktop\AWS\ApiPeliculasAWS\ApiPeliculasAWS\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.dll
 C:\Users\Alumnos MCSD Mañana\Desktop\AWS\ApiPeliculasAWS\ApiPeliculasAWS\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\Alumnos MCSD Mañana\Desktop\AWS\ApiPeliculasAWS\ApiPeliculasAWS\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\Alumnos MCSD Mañana\Desktop\AWS\ApiPeliculasAWS\ApiPeliculasAWS\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
 C:\Users\Alumnos MCSD Mañana\Desktop\AWS\ApiPeliculasAWS\ApiPeliculasAWS\bin\Release\net8.0\publish\MySqlConnector.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\AWS\ApiPeliculasAWS\ApiPeliculasAWS\bin\Release\net8.0\publish\Newtonsoft.Json.dll
 C:\Users\Alumnos MCSD Mañana\Desktop\AWS\ApiPeliculasAWS\ApiPeliculasAWS\bin\Release\net8.0\publish\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\Alumnos MCSD Mañana\Desktop\AWS\ApiPeliculasAWS\ApiPeliculasAWS\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Alumnos MCSD Mañana\Desktop\AWS\ApiPeliculasAWS\ApiPeliculasAWS\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll

@@ -43,3 +43,6 @@ C:\Users\Alumnos MCSD Mañana\Desktop\AWS\ApiPeliculasAWS\ApiPeliculasAWS\obj\De
 C:\Users\Alumnos MCSD Mañana\Desktop\AWS\ApiPeliculasAWS\ApiPeliculasAWS\obj\Debug\net8.0\ApiPeliculasAWS.pdb
 C:\Users\Alumnos MCSD Mañana\Desktop\AWS\ApiPeliculasAWS\ApiPeliculasAWS\obj\Debug\net8.0\ApiPeliculasAWS.genruntimeconfig.cache
 C:\Users\Alumnos MCSD Mañana\Desktop\AWS\ApiPeliculasAWS\ApiPeliculasAWS\obj\Debug\net8.0\ref\ApiPeliculasAWS.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\AWS\ApiPeliculasAWS\ApiPeliculasAWS\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\AWS\ApiPeliculasAWS\ApiPeliculasAWS\bin\Debug\net8.0\AWSSDK.SecretsManager.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\AWS\ApiPeliculasAWS\ApiPeliculasAWS\bin\Debug\net8.0\Newtonsoft.Json.dll

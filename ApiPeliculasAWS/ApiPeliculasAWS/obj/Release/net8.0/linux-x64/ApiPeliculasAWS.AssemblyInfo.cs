@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiPeliculasAWS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8fcc032342f1d392545e487a639355736f3736d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+942d36234e97ed904cb07591895cd73183f6d95e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiPeliculasAWS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiPeliculasAWS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
